@@ -1,2 +1,2 @@
 # stroopEffectStatistics
-In this repository the stroop effec is analysed statistically.
+In this repository the stroop effect is analysed statistically.
